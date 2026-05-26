@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"D:\\\\tiflil\\\\github\\\\Radar Polarimetry for Weather Observations\" && mkdir -p Chapter_01_Polarization_Scattering_Propagation Chapter_02_Polarimetric_Doppler_Radar Chapter_03_Scattering_by_Ensemble Chapter_04_Microphysical_Dielectric_Properties Chapter_05_Polarimetric_Variables Chapter_06_Data_Quality_Measurement_Errors Chapter_07_Polarimetric_Fingerprints Chapter_08_Deep_Convective_Storms Chapter_09_Classification_of_Radar_Echo Chapter_10_Polarimetric_Measurements_of_Precipitation Chapter_11_Polarimetric_Microphysical_Retrievals)"
+    ],
+    "additionalDirectories": [
+      "D:\\tiflil\\github\\Radar Polarimetry for Weather Observations"
+    ]
+  }
+}
